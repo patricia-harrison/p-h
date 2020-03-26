@@ -6,9 +6,7 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Using a light sensor & analog inputs ###
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -19,13 +17,11 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I was able to learn what a phototransistor is and how it functions on a basic level. A phototransistor reacts to differing light levels and shows this through how well it conduct electricity - the more light that is shone on the transistor, the more effectively it transmits electricity. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as daylight sensors, smoke detecters, infrared receivers, etc. 
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Dimming an LED using a potentiometer ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -36,13 +32,11 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I made contact with a potentiometer. Before this experiment, I wouldn't have known what said object is. After completing the project, I understood that a potentiometer is quite literally a dimmer switch in a sense. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as mood lighting.
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Say "Hello" to the BBC nicro:bit! ###
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -53,16 +47,15 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I leanrt about 'stings' on a very basic level. This had been one of the very first experiments I had completed during this course. It was an excellent introduction to making interaction.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as childrens toys, elevators, computers, etc. 
 
-### Experiment name ###
+### Setting the tone with a Piezo Buzzer###
 
-(Replace this with the experiment name)
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
 
 ![Image](missingimage.png)
 
@@ -70,16 +63,13 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I was able to learn hoe to 'code' and play music via the micro:bit and the Piezo buzzer. It was thoroughly enjoyable to attempt to recreate some of my favourite little tunes while learning at the same time. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as door bells, toys, etc. 
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### Using a transistor to drive a motor ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](missingimage.png)
 
