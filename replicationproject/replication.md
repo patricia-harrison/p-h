@@ -13,7 +13,7 @@
 ### Related project 1 ###
 Banana Keyboard
 
-(Insert URL to project)
+https://makecode.microbit.org/projects/banana-keyboard
 
 ![Image]()
 
@@ -22,16 +22,14 @@ This project is related to mine because it follows the similar concept of a musi
 ### Related project 2 ###
 Light Level Meter
 
-(Insert URL to project)
-
-![Image](.png)
+https://makecode.microbit.org/projects/light-level-meter
 
 This project is related to mine because I used a very similar code in order to measure light intensity with my micro:bit. 
 
 ### Related project 3 ###
 Rotary Dial Radio 
 
-(Insert URL to project)
+https://makecode.microbit.org/projects/rotary-dial-radio
 
 ![Image](rotary_dail_radio.jpg)
 
@@ -40,16 +38,16 @@ This project is related to mine because they used a similar concept of plotting 
 ### Related project 4 ###
 Railway crossing
 
-(Insert URL to project)
+https://makecode.microbit.org/projects/railway-crossing
 
-![Image](railway-crossing.png)
+![Image](railway-crossing-action.png)
 
 This project is related to mine because it used code to detect light levels, which would cause crossing gate (?) to eiher lift or drop depending on the level of light detected. My project acted in a similar way except with changing temp and octave rather than dropping or lifting a crossing gate (?)
 
 ### Related project 5 ###
 Milk Monster
 
-(Insert URL to project)
+https://makecode.microbit.org/projects/milky-monster
 
 ![Image](monsters.jpg)
 
@@ -58,7 +56,7 @@ This project is related to mine because, like a few of the other mentioned proje
 ### Related project 6 ###
 Inchworm
 
-(Insert URL to project)
+https://makecode.microbit.org/projects/inchworm
 
 ![Image](ready.png)
 
@@ -150,6 +148,7 @@ I find Scott Sulivan's project really relates to mine more on a mental than phys
 *Complete the following information.*
 
 ### Project title ###
+Guitar
 
 ### Project description ###
 
