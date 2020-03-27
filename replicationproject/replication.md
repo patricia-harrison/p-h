@@ -139,13 +139,13 @@ I find Scott Sulivan's project really relates to mine more on a mental than phys
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
-
-*Include screenshots of the code you have used.*
+![Image](20200327_100222.jpg)
+![Image](20200327_090635.jpg)
+![Image](20200327_090933.jpg)
+![Image](20200327_091020.jpg)
+![Image](code.PNG)
 
 ## Project outcome ##
-
-*Complete the following information.*
 
 ### Project title ###
 Guitar
@@ -164,7 +164,7 @@ The purpose of this project was to design and create an 'electric guitar'. In or
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](20200327_091020.jpg)
 
 ### Reflection ###
 
