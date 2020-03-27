@@ -158,12 +158,6 @@ The purpose of this project was to design and create an 'electric guitar'. In or
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
-
-### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
 ![Image](20200327_091020.jpg)
 
 ### Reflection ###
