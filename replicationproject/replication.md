@@ -68,13 +68,19 @@ The information in this chapter relates to my project by looking at all of the s
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* 
+Before this reading i had always struggled with following a proper planning and prototyping structure for projects. This was a bad habit in my IT class in highschool as I would always get overexcited about a new project and drive head first into it. However, after reading this, I realise just how important prototyping is. (I'm surprised all my projects in highschool went so well! haha)
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:*
+Through reading this piece, I was able to learn possibly one of this most important and inspirational things when it comes to fears. It's difficult to put into words, but this quote from the reading expresses it perfectly: "* I’ve likened this process to being punched in the face: if you’ve never been punched in the face, it seems like just about the worst thing that could happen to you, but when it happens you think “oh that wasn’t so bad, I survived and it doesn’t hurt too much,” and from that point forward you’re not so scared of that punch anymore! *". 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I find I'm always so intimidated when wanting to learn new things or start new projects because, well, I simply never know where to start and what to expect. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*What I would like to know more about:*
+I would love to know more about any of Scott Sulivan's other projects as this read truly inspired me to try new things!
+
+*How this relates to the project I am working on:*
+I find Scott Sulivan's project really relates to mine more on a mental than physical level, as he had explored a new area of knowledge for himself and I have done much the same with this guitar project. 
 
 
 ## Interaction flowchart ##
