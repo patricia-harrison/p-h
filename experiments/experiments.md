@@ -13,7 +13,7 @@
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Photo of a breadboard, three female to male jumper wires, a resistor, a transistor, a battery pack and a BBC Micro:Bit. 
 
 #### Reflection ####
 
@@ -28,7 +28,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Photo of a potentiometer, a push-switch, a blue LED, seven female to male jumper wires, a resistor, a breadboard, battery pack, and a BBC Micro:Bit
 
 #### Reflection ####
 
@@ -43,7 +43,7 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Photo of a breadboard, BBC Micro:Bit, battery pack, push switch and four female to male jumper wires. 
 
 #### Reflection ####
 
@@ -59,7 +59,7 @@ This experiment could be the basis of a real world application such as childrens
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Photo of a Piezo buzzer, bread board, two female to male jumper wires, battery pack and a BBC Micro:Bit.
 
 #### Reflection ####
 
@@ -73,11 +73,11 @@ This experiment could be the basis of a real world application such as door bell
 
 ![Image](missingimage.png)
 
-(Insert a caption here)
+Photo of a transistor, breadboard, battery pack, BBC Micro:Bit, motor, three female to male jumper wires, fan blade, terminal connector, and a resistor. 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, I was able to learn that you can use a transistor as a sort of gate for energy to flow through. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as ......(insert something here).
 
