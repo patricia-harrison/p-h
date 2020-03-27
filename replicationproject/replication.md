@@ -11,13 +11,58 @@
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Banana Keyboard
 
 (Insert URL to project)
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it follows the similar concept of a musical instrument. 
+
+### Related project 2 ###
+Light Level Meter
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because I used a very similar code in order to measure light intensity with my micro:bit. 
+
+### Related project 3 ###
+Rotary Dial Radio 
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because they used a similar concept of plotting graphs in order to calculate and detect pulses, much like how I used plotting graphs in order to calculate light levels and xyz axes.
+
+### Related project 4 ###
+Railway crossing
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because it used code to detect light levels, which would cause crossing gate (?) to eiher lift or drop depending on the level of light detected. My project acted in a similar way except with changing temp and octave rather than dropping or lifting a crossing gate (?)
+
+### Related project 5 ###
+Milk Monster
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because, like a few of the other mentioned projects, this too uses a light sensor.
+
+### Related project 6 ###
+Inchworm
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because it also makes use of the "pause" code block. However, unlike the guitar project, the inchworm utilises it to pause the worm's movement for a moment. 
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
