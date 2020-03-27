@@ -26,21 +26,27 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* Most people don't tend to give much thought to everyday objects and why they're designed the way they are. Before reading this chapter, I only occasionally gave thought to the design of everyday objects, but never truly questioned their design. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:* After reading this chapter my viewpoint of the design of everyday objects has changed. I now question the design of most common objects I come across throughout my days - especially the dreaded door. Through reading this chapter I was also able to add the term 'discoverablity' to my vocabulary and that it is an esential part of all design. It was said that many products fail because they lack discoverability and understanding. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+Thanks to this reading, my understanding of design has improved. If only I had been asked to read this a few years ago, the products I produced in my IT class (in highschool) would have been 1000 times better. The chapter read covers essential bases of design, which include; Human Centered Design and the fundamental principals of interaction. Human Centered Design, or HCD is absolutly essential as it determines whether a design matches the capablites and needs of its target audiance. An example of this could be Google Maps and its voice assistant which gives you directions while driving without having to glance down at the drivers smartphone. The implementation of this voice assistant would have prevented many potential car accidents. The fundamental principals of interaction encompass five psycological concepts; Affordances, Signifiers, Mapping, Feedback, and Conceptual Models. Affordances is all about the relationship of information we are able to glean from around us. Signifiers are the properties that aid us in determining where the action takes place (signifiers include signs, drawings and labels.) Mapping is the relationship between two sets of things. For example, while driving a car, the steering wheel creates a sort of map for direction. Feedback is relatively self explanitory. The lack of feedback will create frustration while using any product. Receiving feedback from an object is very important as it allowed you to truly interact with it. Conceptual models are a highly simplified explanation of how something works. Conceptual models can vary depending on the user, their culture or their religion. 
+
+*What I would like to know more about:* I would definitely like to learn more about human centered design as it is so essential to all products produced in the world. 
+
+*How this relates to the project I am working on:* The concept of this chapter relates to my replication project as there is constant feedback between the object (guitar) and the user. Through this constant feedback, it encourages the user to explore and experiment with the object in order to discover what the object can do. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* Before reading chapter one of this book I was not entirely aware of microinteractions all the time. The only times I became truly aware of these microinteractions is usually while playing video games, expecially ones that have incredible detail, whether this be the way you character interacts with the environment around them (e.g. hair/clothing texture changing with the environment around them) or with npcs, etc. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:* Through reading this chapter I was able to gain a better understanding of microinteractions and how important they really are. Microinteractions are the small pieces of functionality that are all around us and make our overall experiences better. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about:* 
+Describe or write a question about something that you would be interested in knowing more about.*
+
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
