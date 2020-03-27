@@ -15,7 +15,7 @@ Banana Keyboard
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image]()
 
 This project is related to mine because it follows the similar concept of a musical instrument. 
 
@@ -24,7 +24,7 @@ Light Level Meter
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](.png)
 
 This project is related to mine because I used a very similar code in order to measure light intensity with my micro:bit. 
 
@@ -33,7 +33,7 @@ Rotary Dial Radio
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](rotary_dail_radio.jpg)
 
 This project is related to mine because they used a similar concept of plotting graphs in order to calculate and detect pulses, much like how I used plotting graphs in order to calculate light levels and xyz axes.
 
@@ -42,7 +42,7 @@ Railway crossing
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](railway-crossing.png)
 
 This project is related to mine because it used code to detect light levels, which would cause crossing gate (?) to eiher lift or drop depending on the level of light detected. My project acted in a similar way except with changing temp and octave rather than dropping or lifting a crossing gate (?)
 
@@ -51,7 +51,7 @@ Milk Monster
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](monsters.jpg)
 
 This project is related to mine because, like a few of the other mentioned projects, this too uses a light sensor.
 
@@ -60,7 +60,7 @@ Inchworm
 
 (Insert URL to project)
 
-![Image](missingimage.png)
+![Image](ready.png)
 
 This project is related to mine because it also makes use of the "pause" code block. However, unlike the guitar project, the inchworm utilises it to pause the worm's movement for a moment. 
 
